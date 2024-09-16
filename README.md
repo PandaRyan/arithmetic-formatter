@@ -10,7 +10,7 @@ arithmetic_formatter()
 ```
 2. Enter the following parameters into the subroutine with the stated format:
 ```bash
-arithmetic_aranger([string_of_arithmetic_problems],displayAnswer?)
+arithmetic_arranger([string_of_arithmetic_problems],displayAnswer?)
 ```
 Example:
 ```bash
