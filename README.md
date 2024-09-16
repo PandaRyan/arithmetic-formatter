@@ -4,4 +4,7 @@ An arithmetic formatter designed to format strings of arithmetic problems into a
 
 ## Instructions:
 
-Place in the 
+1. Call upon the subroutine: 
+```bash
+arithmetic_formatter()
+```
